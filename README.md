@@ -12,7 +12,7 @@
 
 -[MoodMate https:[//kalyalew-tadele.github.io/Modemate/)](https://kaldebug.github.io/Moodmate/)
 
--[DailyMix https://kaldebug.github.io/Daily-Mix/]](https://kaldebug.github.io/Daily-Mix/)](https://kaldebug.github.io/Daily-Mix/)
+-[DailyMix [https://kaldebug.github.io/Daily-Mix/]](https://kaldebug.github.io/Daily-Mix/)](https://kaldebug.github.io/Daily-Mix/)
 
 📫 Contact Me
 
